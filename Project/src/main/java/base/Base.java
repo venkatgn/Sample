@@ -1,5 +1,9 @@
 package base;
 
-public class Base {
-
+public class Base
+{
+  public void setUp()
+  {
+	  
+  }
 }
