@@ -6,4 +6,8 @@ public class Base
   {
 	  
   }
+  public void teardown()
+  {
+	  
+  }
 }
