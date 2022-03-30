@@ -8,6 +8,6 @@ public class class1 {
 	}
 	public void f2()
 	{
-		
+		System.out.println();
 	}
 }
